@@ -26,4 +26,3 @@ muito feliz em ouvi-las. Vamos embarcar nessa jornada juntos!* 💙
 
 ![](https://media1.tenor.com/m/XSjKW2U6qHAAAAAC/smile-krupovich.gif)
 
- ##### **🚫🧾A VENDA DESSE PORTIFOLIO É PROIBIDO 🧾🚫**
