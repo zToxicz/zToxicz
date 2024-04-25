@@ -1,28 +1,31 @@
-####                                    ☄  BEM VINDO ☄
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Olá meu chamo Ruan Pablo e sou estudante <strong>BackEnd e FrontEnd</strong>.<br>
+  Estou cursando o 2º Ano do Ensino Médio, e pretendo me formar em T.I
+</p>
 
+<p align="left">
+  ⭐ Potifolio: https://toxicz.vercel.app
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>Javascript</strong>
+</p>
 
-💙 *Olá! Sou novo na área de programação e estou começando a aprender. Estou animado para explorar esse mundo e descobrir 
-todas as possibilidades que a programação oferece. Se você tem dicas ou sugestões para um iniciante como eu, ficarei 
-muito feliz em ouvi-las. Vamos embarcar nessa jornada juntos!* 💙
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio Code</strong>
+</p>
 
+<p align="left">
+  💌 Para entrar em contato comigo, use as plataformas abaixo: ⤵️
+</p>
 
+<p align="left">
+  <a href="mailto:ruann239@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-
-
-
-
-
-- **Estou aprendento HTML no [Alura](https://www.alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=609948692827&hsa_src=g&hsa_tgt=kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJW-LsZtSoahNkHBBFx3FFi1QyIooFKO8BbGnHWeEJXUoSNFqdHgCoxoCxekQAvD_BwE) como minha base de estudos.**
-- **Estou começando a desenvolver em HTML. Ainda aprendendo, mas animado para dominar essa linguagem!**
-- **No GitHub, compartilho meus projetos para quem se interessa. Animado para explorar a programação e aprender mais. Sugestões são bem-vindas!**
-
-#### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📮 
-
-👀 Instagram: @toxiic.z
-
-📨 E-mail : ruann239@gmail.com
-
-![](https://media1.tenor.com/m/XSjKW2U6qHAAAAAC/smile-krupovich.gif)
-
+  <a href="https://discord.gg/AsbKr3qdva">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
